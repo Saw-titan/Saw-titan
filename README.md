@@ -2,7 +2,7 @@
 
 > *"Still loading... but already awesome."*
 
-![cute gif](https://www.google.com/imgres?q=cute%20%20gif&imgurl=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2024%2F10%2Fcute-icegif-8.gif&imgrefurl=https%3A%2F%2Fwww.icegif.com%2Fcute-21%2F&docid=M_ZlVlD0u4S80M&tbnid=PgTue_yx0wv-xM&vet=12ahUKEwjGjafYqbKNAxVC1DgGHUmyNywQM3oECEUQAA..i&w=498&h=498&hcb=2&ved=2ahUKEwjGjafYqbKNAxVC1DgGHUmyNywQM3oECEUQAA)
+![cute gif]([https://www.google.com/imgres?q=cute%20%20gif&imgurl=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2024%2F10%2Fcute-icegif-8.gif&imgrefurl=https%3A%2F%2Fwww.icegif.com%2Fcute-21%2F&docid=M_ZlVlD0u4S80M&tbnid=PgTue_yx0wv-xM&vet=12ahUKEwjGjafYqbKNAxVC1DgGHUmyNywQM3oECEUQAA..i&w=498&h=498&hcb=2&ved=2ahUKEwjGjafYqbKNAxVC1DgGHUmyNywQM3oECEUQAA](https://www.icegif.com/wp-content/uploads/2024/10/cute-icegif-8.gif))
 
 Welcome to my cozy corner of the internet! I'm a **B.Tech student** who's madly in love with all things web. I turn ☕ into code and wild ideas into reality—armed with nothing but **HTML**, **CSS**, **JavaScript**, and a **spark of curiosity**. 💡✨
 
@@ -36,8 +36,7 @@ Stay tuned — my GitHub is where logic meets whimsy! 🪄✨
 ## 🤓 A Bit More About Me
 
 - 📍 From: Planet Earth (mostly found near Wi-Fi)
-- 🔭 I’m currently exploring: **creative tech, UI magic, and Arduino experiments**
-- 🧠 Fun Fact: I once built a site that changes themes based on your mood 🌈
+- 🔭 I’m currently exploring: **creative tech and UI magic**
 
 ---
 
