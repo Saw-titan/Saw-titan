@@ -1,4 +1,4 @@
-# 🌟 Hey there, Curious Coder! 👩‍💻👨‍💻
+# 🌟 Hey there, Tiny Techie! 👩‍💻👨‍💻
 
 > *"Still loading... but already awesome."*
 
